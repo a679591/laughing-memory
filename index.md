@@ -7,3 +7,9 @@
 
 
 ![Image of Inspectocat](https://octodex.github.com/images/inspectocat.jpg)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
